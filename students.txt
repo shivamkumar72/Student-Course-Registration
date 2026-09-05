@@ -1,0 +1,7 @@
+Student Name: Shivam
+Registration No: 101
+Course: Python
+
+Student Name: Arjun
+Registration No: 102
+Course: Data Structures
